@@ -1,0 +1,9 @@
+- 👋 Hi, i'm Eduardo Griesang;
+- 👀 I’m interested in full stack development;
+- 🌱 I’m currently learning (HTML, CSS, JS);
+- 💞️ I’m looking to collaborate on any kind of project;
+- 📫 How to reach me{
+-     Eduardo.Twitter = @EGriesang;
+-     Eduardo.Instagram = @eduardo_griesang;
+-     Eduardo.Gmail = eduardogriesang1@gmail.com;
+- }
